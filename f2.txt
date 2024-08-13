@@ -1,0 +1,3 @@
+Writing into the file hereWriting into the file hereWriting into the file
+new line
+next lineWriting into the file
